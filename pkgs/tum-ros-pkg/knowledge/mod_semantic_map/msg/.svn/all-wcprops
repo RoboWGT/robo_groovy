@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/tum-ros-pkg/code/!svn/ver/865/knowledge/mod_semantic_map/msg
+END
+SemMapObject.msg
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/tum-ros-pkg/code/!svn/ver/865/knowledge/mod_semantic_map/msg/SemMapObject.msg
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tum-ros-pkg/code/!svn/ver/865/knowledge/mod_semantic_map/msg/.gitignore
+END
+SemMap.msg
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tum-ros-pkg/code/!svn/ver/865/knowledge/mod_semantic_map/msg/SemMap.msg
+END

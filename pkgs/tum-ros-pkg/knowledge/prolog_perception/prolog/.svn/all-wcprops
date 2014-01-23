@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tum-ros-pkg/code/!svn/ver/616/knowledge/prolog_perception/prolog
+END
+comp_kcopman.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/tum-ros-pkg/code/!svn/ver/616/knowledge/prolog_perception/prolog/comp_kcopman.pl
+END
+init.pl.in
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tum-ros-pkg/code/!svn/ver/616/knowledge/prolog_perception/prolog/init.pl.in
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/tum-ros-pkg/code/!svn/ver/616/knowledge/prolog_perception/prolog/.gitignore
+END

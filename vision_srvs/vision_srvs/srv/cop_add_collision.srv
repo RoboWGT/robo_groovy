@@ -1,0 +1,6 @@
+# Cop collsion,  U. Klank klank@in.tum.de, L. Moesenlechner moesenle@in.tum.de
+# Message to query cop to add a specific object to the collision map
+uint64 object_id          #id of an previously seen object
+---
+string   collisionname      # The filename of the xml-file that contains the signature
+arm_navigation_msgs/CollisionObject added_object             # The collision object that got added by this service

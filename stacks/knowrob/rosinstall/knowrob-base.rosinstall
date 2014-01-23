@@ -1,0 +1,1 @@
+- git: {local-name: stacks/knowrob, uri: 'https://github.com/knowrob/knowrob.git'}

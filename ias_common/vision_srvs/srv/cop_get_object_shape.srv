@@ -1,0 +1,5 @@
+# Cop get object shape ,  U. Klank klank@in.tum.de
+# Message to query cop to query a specific object's shape
+uint64 object_id          #id of an previously seen object
+---
+arm_navigation_msgs/Shape shape  # Shape for grasp planning, either box or mesh

@@ -1,0 +1,77 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches
+END
+nearest.patch
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/nearest.patch
+END
+test_client_main.cpp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/test_client_main.cpp.patch
+END
+table_memory16112009.patch
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/table_memory16112009.patch
+END
+tabletop_msgs.patch
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/tabletop_msgs.patch
+END
+ROSComm.h.patch
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/ROSComm.h.patch
+END
+teleop_head_keyboard.cpp.launch
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/teleop_head_keyboard.cpp.launch
+END
+table_object_detector.patch
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/table_object_detector.patch
+END
+cop_call.patch
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/cop_call.patch
+END
+shoulder_scanner.patch
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/shoulder_scanner.patch
+END
+table_memory.patch
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/table_memory.patch
+END
+ROSComm.cpp.patch
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/ROSComm.cpp.patch
+END
+cop_answer.patch
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/patches/cop_answer.patch
+END

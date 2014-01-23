@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/tum-ros-pkg/code/!svn/ver/333/knowledge/oro/oro_server
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/tum-ros-pkg/code/!svn/ver/333/knowledge/oro/oro_server/Makefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/tum-ros-pkg/code/!svn/ver/333/knowledge/oro/oro_server/.gitignore
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tum-ros-pkg/code/!svn/ver/333/knowledge/oro/oro_server/manifest.xml
+END

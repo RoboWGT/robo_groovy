@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/tum-ros-pkg/code/!svn/ver/616/knowledge/prolog_perception/src/cpp
+END
+query_table_memory_write_to_file.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/src/cpp/query_table_memory_write_to_file.cpp
+END
+query_lo_cop.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/src/cpp/query_lo_cop.cpp
+END
+query_tabletop_missing_objects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/src/cpp/query_tabletop_missing_objects.cpp
+END
+query_cluster_color.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/src/cpp/query_cluster_color.cpp
+END
+query_plane.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/src/cpp/query_plane.cpp
+END
+query_table_memory.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/p/tum-ros-pkg/code/!svn/ver/616/knowledge/prolog_perception/src/cpp/query_table_memory.cpp
+END
+query_table_objects.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/src/cpp/query_table_objects.cpp
+END

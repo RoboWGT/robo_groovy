@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/tum-ros-pkg/code/!svn/ver/332/knowledge/oro/oro_ros
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/tum-ros-pkg/code/!svn/ver/332/knowledge/oro/oro_ros/.gitignore
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tum-ros-pkg/code/!svn/ver/332/knowledge/oro/oro_ros/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tum-ros-pkg/code/!svn/ver/332/knowledge/oro/oro_ros/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/tum-ros-pkg/code/!svn/ver/332/knowledge/oro/oro_ros/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/tum-ros-pkg/code/!svn/ver/332/knowledge/oro/oro_ros/Makefile
+END
+oro_server.launch
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tum-ros-pkg/code/!svn/ver/332/knowledge/oro/oro_ros/oro_server.launch
+END

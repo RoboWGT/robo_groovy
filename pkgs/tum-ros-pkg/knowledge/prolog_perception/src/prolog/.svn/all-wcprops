@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tum-ros-pkg/code/!svn/ver/616/knowledge/prolog_perception/src/prolog
+END
+load_fli_predicates.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/tum-ros-pkg/code/!svn/ver/616/knowledge/prolog_perception/src/prolog/load_fli_predicates.pl
+END
+example_missing_objects.pl
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/src/prolog/example_missing_objects.pl
+END
+passive_perception.pl
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/p/tum-ros-pkg/code/!svn/ver/282/knowledge/prolog_perception/src/prolog/passive_perception.pl
+END

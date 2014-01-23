@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<model>
+    <name>Pringels_Sour_Cream_Onion.Pringels_Sour_Cream_Onion</name>
+    <type>3D</type>
+    <faces>100</faces>
+    <dimensions>
+        <scale>1</scale>
+    </dimensions>
+</model>

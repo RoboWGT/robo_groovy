@@ -1,0 +1,5 @@
+# Cop get method list ,  U. Klank klank@in.tum.de
+# Message to query all methods registered in cop with their current basic evaluation
+uint64 algorithmtype          #0 for no restrictions
+---
+vision_msgs/algorithm_evaluation[] method   # list of registered methods with their current evaluation

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/tum-ros-pkg/code/!svn/ver/864/knowledge/mesh_label_node/vtk
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tum-ros-pkg/code/!svn/ver/864/knowledge/mesh_label_node/vtk/.gitignore
+END
+cup_handle_side_from_cylinder.vtk
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/p/tum-ros-pkg/code/!svn/ver/864/knowledge/mesh_label_node/vtk/cup_handle_side_from_cylinder.vtk
+END

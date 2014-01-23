@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/tum-ros-pkg/code/!svn/ver/864/knowledge/mesh_label_node
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tum-ros-pkg/code/!svn/ver/864/knowledge/mesh_label_node/mainpage.dox
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/tum-ros-pkg/code/!svn/ver/864/knowledge/mesh_label_node/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/tum-ros-pkg/code/!svn/ver/864/knowledge/mesh_label_node/Makefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/tum-ros-pkg/code/!svn/ver/864/knowledge/mesh_label_node/.gitignore
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/tum-ros-pkg/code/!svn/ver/864/knowledge/mesh_label_node/manifest.xml
+END

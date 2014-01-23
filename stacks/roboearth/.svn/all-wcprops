@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/roboearth/repos/!svn/ver/2408/public/tags/latest
+END
+stack.xml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/roboearth/repos/!svn/ver/2258/public/tags/latest/stack.xml
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/roboearth/repos/!svn/ver/1246/public/tags/latest/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/roboearth/repos/!svn/ver/1246/public/tags/latest/Makefile
+END

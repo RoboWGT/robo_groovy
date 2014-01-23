@@ -1,0 +1,5 @@
+# TriangleMeshToName,  U. Klank klank@in.tum.de
+# Message to annotate meshes
+triangle_mesh_msgs/TriangleMesh mesh  # mesh that should be shown to a user
+---
+string name                           # Annotated word from the user

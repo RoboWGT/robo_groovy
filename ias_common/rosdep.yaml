@@ -1,0 +1,9 @@
+libace:
+  debian: libace-dev
+  ubuntu: libace-dev
+libgsl:
+  debian: libgsl0-dev
+  ubuntu: libgsl0-dev
+libcwiid:
+  debian: libcwiid1-dev
+  ubuntu: libcwiid-dev

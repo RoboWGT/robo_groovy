@@ -1,0 +1,11 @@
+<package>
+  <description>no description</description>
+  <author>Ulrich F Klank</author>
+  <license>GPL</license>
+  <depend package="roscpp" />
+  <depend package="std_msgs" />  
+  <depend package="triangle_mesh_msgs" />
+  <export>
+        <cpp cflags="-I${prefix}/srv/cpp"/>
+ </export>
+</package>

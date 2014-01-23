@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/tum-ros-pkg/code/!svn/ver/334/knowledge/oro/oro_ontology
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tum-ros-pkg/code/!svn/ver/334/knowledge/oro/oro_ontology/.gitignore
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tum-ros-pkg/code/!svn/ver/334/knowledge/oro/oro_ontology/manifest.xml
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/tum-ros-pkg/code/!svn/ver/334/knowledge/oro/oro_ontology/Makefile
+END

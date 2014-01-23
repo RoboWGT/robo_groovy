@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/tum-ros-pkg/code/!svn/ver/863/knowledge/comp_objclusters
+END
+CMakeLists.txt
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/tum-ros-pkg/code/!svn/ver/863/knowledge/comp_objclusters/CMakeLists.txt
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/tum-ros-pkg/code/!svn/ver/863/knowledge/comp_objclusters/Makefile
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/tum-ros-pkg/code/!svn/ver/863/knowledge/comp_objclusters/.gitignore
+END
+manifest.xml
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tum-ros-pkg/code/!svn/ver/863/knowledge/comp_objclusters/manifest.xml
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/tum-ros-pkg/code/!svn/ver/863/knowledge/comp_objclusters/mainpage.dox
+END
